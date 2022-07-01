@@ -6,3 +6,5 @@ knn-test-dataset-results.pkl
 data-set
 __pycache__
 *.model
+*.json
+*.pickle
